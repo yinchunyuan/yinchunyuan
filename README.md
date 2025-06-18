@@ -1,5 +1,5 @@
 <strong>Hi👋, hello my friends!</strong>
-<p style="line-height: 1.8; font-size: 14px;">
+<p style="line-height: 1.3; font-size: 14px;">
  .
 </p>
 
