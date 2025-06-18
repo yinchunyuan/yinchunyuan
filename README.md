@@ -7,6 +7,6 @@
 </svg>
 
 
-![yinchunyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinchunyuan&show_icons=true&theme=transparent&bg_color=#555555&hide_border)
+![yinchunyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinchunyuan&show_icons=true&theme=transparent&bg_color=f0f0f0&hide_border)
 
 
