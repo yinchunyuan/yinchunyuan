@@ -1,4 +1,6 @@
-![Hi👋, hello my friends!](https://media.giphy.com/media/yinchunyuan/giphy.gif)
+<marquee behavior="scroll" direction="left" scrollamount="3" style="color: #2563eb;">
+ Hi👋, hello my friends!
+</marquee>
 
 
 [![yinchunyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinchunyuan)](https://github.com/yinchunayuan/github-readme-stats)
