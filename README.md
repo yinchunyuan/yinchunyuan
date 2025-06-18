@@ -1,6 +1,6 @@
 <strong>Hi👋, hello my friends!</strong>
 <p style="line-height: 1.8; font-size: 14px;">
-  Hi👋, hello my friends!  
+ .
 </p>
 
 
