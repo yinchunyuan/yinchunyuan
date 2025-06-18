@@ -1,4 +1,4 @@
-<p style="font-size: 20px; text_bold; margin-bottom: 20px;">
+<p style="font-size: 30px; text_bold; margin-bottom: 20px;">
   Hi👋, hello my friends! 
 </p>
 
