@@ -1,7 +1,7 @@
 ## Hello! 👋 
 
-[![yinchunyuan's GitHub activity](https://github-readme-stats.vercel.app/api?username=yinchunyuan&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
-
+[![yinchunyuan's GitHub activity](https://github-readme-stats.vercel.app/api?username=yinchunyuan&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yinchunyuan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)-->
