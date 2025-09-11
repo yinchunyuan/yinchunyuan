@@ -1,5 +1,10 @@
 ## Hello! 👋 
-[![yinchunyuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yinchunyuan&theme=tokyo-night&title=yinchunyuan%27s%20Contribution%20Graph&width=1000&height=500)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![yinchunyuan's GitHub activity](https://github-readme-stats.vercel.app/api?username=yinchunyuan&theme=blue_navy, catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)-->
 <!--
 **yinchunyuan/yinchunyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
