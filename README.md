@@ -1,6 +1,6 @@
 ## Hello! 👋 
 
-[![yinchunyuan's GitHub activity](https://github-readme-stats.vercel.app/api?username=yinchunyuan&theme=blue_navy, catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+[![yinchunyuan's GitHub activity](https://github-readme-stats.vercel.app/api?username=yinchunyuan&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
