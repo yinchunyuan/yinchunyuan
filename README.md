@@ -1,5 +1,5 @@
 ## Hello! 👋 
-[![ycy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![yinchunyuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yinchunyuan&theme=tokyo-night&title=yinchunyuan%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **yinchunyuan/yinchunyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
